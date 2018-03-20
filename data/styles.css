@@ -1,0 +1,111 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._圖片 {
+}
+._一級標題 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二級標題 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三級標題 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四級標題 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五級標題 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六級標題 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.box_1 {
+}
+.topbtn {
+}
+.box_3 {
+}
+.icon {
+}
+.box_2 {
+}
+.mainmwnu-link {
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.mainmwnu-link1 {
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#1D2088;
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
+}
+.newsbtn {
+  color:#555555;
+}
+._文字匡 {
+}
+.newsroomlist {
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#555555;
+  text-align:left;
+}
+.newslistdate {
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
+}
+.newstittle {
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
+  font-weight:700;
+  font-style:normal;
+  font-size:25px;
+  color:#2A2DAB;
+  text-align:left;
+}
